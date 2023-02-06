@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-   <img src="" https://img.shields.io/badge/Java%20-version%208%20Update%20361-blueviolet">
-   <img src="" https://img.shields.io/badge/Game%20-version%201.0-critical">
+   <img src=""https://img.shields.io/badge/Java%20-version%208%20Update%20361-blueviolet">
+   <img src=""https://img.shields.io/badge/Game%20-version%201.0-critical">
   
 </p>
 
