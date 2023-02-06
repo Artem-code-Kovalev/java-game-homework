@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-   <img src=""https://img.shields.io/badge/Java%20-version%208%20Update%20361-blueviolet">
-   <img src=""https://img.shields.io/badge/Game%20-version%201.0-critical">
-  
+   <img src="https://img.shields.io/badge/Java%20-version%208%20Update%20361-blueviolet" alt="Java version 8 Update 361">
+   <img src="https://img.shields.io/badge/Game%20-version%201.0-criticalalt=" alt="Game version 1.0">
+   <img src="https://img.shields.io/badge/License-%3F%3F%3F%3F%3F-ff69b4" alt="License ?">
 </p>
 
 ## About
