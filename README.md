@@ -10,7 +10,7 @@
 
 ## About
 
-About Text Here
+The game can be played from the client code in the java file: Game. When the casino program is called, the user selects the difficulty level to start the game. In a random order, the chips fall down and they need to be caught, the points are summed up and accumulated.
 
 ## Documentation
 
